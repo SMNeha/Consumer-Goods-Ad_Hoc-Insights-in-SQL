@@ -1,4 +1,4 @@
-# Consumer-Goods-Ad_Hoc-Insights-in-SQL
+# SQL-Consumer-Goods-Ad_Hoc-Insights
 MySQL Project - Adhoc Analysis
 
 In this project, I explored 10 ad-hoc queries, uncovering important insights about top products, customers, markets, and important metrics like gross price, pre-invoice deductions, manufacturing costs, and sales quantity. 
